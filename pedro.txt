@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 abcde
+=======
+abc
+>>>>>>> parent of d7ec066 (terceiro commit)
